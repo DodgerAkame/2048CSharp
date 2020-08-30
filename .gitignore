@@ -1,0 +1,12 @@
+﻿*.lock
+.vs/2048/v16/Server/sqlite3/storage.ide-wal
+.vs/2048/v16/Server/sqlite3/storage.ide
+.vs/2048/v16/Server
+.vs/2048/v16/TestStore
+UnitTest/bin
+UnitTest/obj
+WindowsFormsApp1/bin
+WindowsFormsApp1/obj
+2048.Test/obj
+2048/obj
+.vs/2048/v16/.suo
